@@ -26,8 +26,3 @@ Power BI • Looker Studio
 - Banco de Dados
 - Desenvolvimento Web
 - Análise de Dados
-
-## Contato
-
-🔗 linkedin.com/in/anaclaratrindadecunha
-📧 trindadeanaclara8@gmail.com
