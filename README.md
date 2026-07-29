@@ -4,11 +4,13 @@
 
 💼 Técnica de Projetos atuando no setor elétrico
 
-📊 Interesse em Análise de Dados, Business Intelligence e Desenvolvimento Full Stack.
+📊 Interesse em Análise de Dados, Business Intelligence e Desenvolvimento de Software.
 
-## Tecnologias
+## Tecnologias e Ferramentas
 
-Python • SQL • Node.js • JavaScript • HTML • CSS • C++ • Git
+Python • SQL • JavaScript • Node.js
+
+HTML • CSS • Git • C++
 
 ## Frameworks
 
@@ -27,6 +29,6 @@ Power BI • Looker Studio
 
 ## Contato
 
-🔗 LinkedIn: www.linkedin.com/in/anaclaratrindadecunha
+🔗 LinkedIn: [LinkedIn](https://www.linkedin.com/in/anaclaratrindadecunha)
 
-📧 E-mail: trindadeanaclara8@gmail.com
+📧 E-mail: [E-mail](mailto:trindadeanaclara8@gmail.com)
