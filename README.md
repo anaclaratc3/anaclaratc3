@@ -1,16 +1,32 @@
-## Hi there 👋
+# Olá, eu sou Ana Clara 👋
 
-<!--
-**anaclaratc3/anaclaratc3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Graduanda em Ciência da Computação
 
-Here are some ideas to get you started:
+💼 Técnica de Projetos atuando no setor elétrico
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 Interesse em Análise de Dados, Business Intelligence e Desenvolvimento Full Stack.
+
+## Tecnologias
+
+Python • SQL • Node.js • JavaScript • HTML • CSS • C++ • Git
+
+## Frameworks
+
+Flask • FastAPI • React • Tailwind CSS
+
+## Business Intelligence
+
+Power BI • Looker Studio
+
+## Atualmente estudando
+
+- Estruturas de Dados
+- Banco de Dados
+- Desenvolvimento Web
+- Análise de Dados
+
+## Contato
+
+🔗 LinkedIn: www.linkedin.com/in/anaclaratrindadecunha
+
+📧 E-mail: trindadeanaclara8@gmail.com
