@@ -29,6 +29,5 @@ Power BI • Looker Studio
 
 ## Contato
 
-🔗 LinkedIn: [LinkedIn](https://www.linkedin.com/in/anaclaratrindadecunha)
-
-📧 E-mail: [E-mail](mailto:trindadeanaclara8@gmail.com)
+🔗 linkedin.com/in/anaclaratrindadecunha
+📧 trindadeanaclara8@gmail.com
