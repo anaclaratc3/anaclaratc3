@@ -1,4 +1,4 @@
-# Olá, eu sou Ana Clara 👋
+# Olá, eu sou Ana Clara 
 
 🎓 Graduanda em Ciência da Computação
 
